@@ -2,7 +2,7 @@
 
 Fem iPhone-PWA-prototyper. Midtstil. Local-first.
 
-Live (etter Pages er slått på): https://fotoblinkskudd2-create.github.io/regn-lab/
+Live: https://fotoblinkskudd2-create.github.io/regn-lab/ (krever at Axel slår på Pages — se PAGES-SETUP.md)
 
 ## Apper
 
